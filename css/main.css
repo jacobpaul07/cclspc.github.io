@@ -18240,6 +18240,7 @@ body.modal-open .mm-slideout {
 
 .post-creative-style-1 .img-wrapper {
   position: relative;
+  margin-top: 20px;
 }
 
 .post-creative-style-1 .img-wrapper img {
@@ -18255,11 +18256,13 @@ body.modal-open .mm-slideout {
   font-family: "Roboto", sans-serif;
   letter-spacing: 1px;
   font-weight: normal;
+
 }
 
 .post-creative-style-1 .img-wrapper .cate strong {
   font-weight: bold;
   margin-right: 7px;
+
 }
 
 .post-creative-style-1 .img-wrapper .cate:before {
@@ -18270,6 +18273,7 @@ body.modal-open .mm-slideout {
   display: inline-block;
   vertical-align: middle;
   margin-right: 20px;
+
 }
 
 .post-creative-style-1 .desc h3 a {
@@ -18280,6 +18284,7 @@ body.modal-open .mm-slideout {
   padding: 14px 0;
   position: relative;
   margin-bottom: 40px;
+
 }
 
 .post-creative-style-1 .desc h3 a:after {
